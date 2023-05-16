@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(7, 173, 249);
+    display: flex;
+}
+
+.divHeader{
+    display: flex;
+    background-color: #3A405A;
+    margin-left: -20px;
+    margin-top: -8px;
+    width: 500px;
+    height: 42px;
+}
+
+.headRec{
+    margin-left: -8px;
+
+}
+
+.icon{
+    margin-left: 20px;
+    height: 35px;
+    margin-top: 4px;
+}
