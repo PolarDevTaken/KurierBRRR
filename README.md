@@ -14,7 +14,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://preview.redd.it/9gbl3hh9w0ua1.png?width=640&crop=smart&auto=webp&v=enabled&s=782400b9eb67126ef5254378c3cf64c22eb28763" width="512px"/>
+<img src="https://i.redd.it/yester-yester-yester-yester-yester-yester-yester-day-v0-9gbl3hh9w0ua1.png?s=15445b93d660c97ed76dd83858ab90e6cf522b61" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PolarDevTaken&icon=0&color=0)](https://visitcount.itsvg.in)
