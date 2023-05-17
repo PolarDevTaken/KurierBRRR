@@ -14,7 +14,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://api.imgflip.com/get_memes" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PolarDevTaken&icon=0&color=0)](https://visitcount.itsvg.in)
